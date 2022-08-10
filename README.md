@@ -1,6 +1,10 @@
 
 
-## Hey there! 
+## Hi, I'm Erik Hernández! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <br><br>
+
+
 
 <div>
   <a href="https://github.com/Erik161">
@@ -9,7 +13,7 @@
 </div>
 
   
-## ⚡ Technologies
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies 
   
   <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
